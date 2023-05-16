@@ -14,4 +14,9 @@ And so, the story of data structures continues to evolve. Today, we have a vast 
 
 [Milestones in Data Structures](https://devopedia.org/data-structures#milestones)
 
-[Open Table of Content](./02_table_of_content.md)
+----
+[Next >](./02_revision.md)
+
+[Open Table of Content](./00_table_of_content.md)
+
+----
