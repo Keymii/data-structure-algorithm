@@ -73,7 +73,7 @@ for all n $\geq$ n<sub>0</sub>
 **\# Note: There is no little-theta notation!**
 
 -----
-[< Previous](./01_introduction.md)  &ensp;  [Next >]()
+[< Previous](./01_introduction.md)  &ensp;  [Next >](03_time_space_complexity.md)
 
 [Open Table of Content](./00_table_of_content.md) 
 

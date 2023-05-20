@@ -5,5 +5,5 @@
 | 00 | [Table of Content](./00_table_of_content.md) |
 | 01 | [Introduction](./01_introduction.md) |
 | 02 | [Pointers, Referencing & Dereferencing, Arrays, Asymptotic Notation](./02_revision.md) |
-| 03 | |
+| 03 | [Time and Space complexity](./03_time_space_complexity.md)|
 
