@@ -35,7 +35,7 @@ Space complexity :  $O(1)$ (as the only extra memory used is for temporary varia
 - Selection sort has a time complexity of $O(n^2)$ in the worst and average case. Hence it does not work well on large datasets.
 - The selection sort never makes more than $O(n)$ swaps and can be useful when memory writing is costly. 
 -----
-[< Previous](./03_time_space_complexity.md)  &ensp;  [Next >](./05_bubble_sort.md)
+[< Previous](../03_time_space_complexity.md)  &ensp;  [Next >](./05_bubble_sort.md)
 
 [Open Table of Content](./00_table_of_content.md) 
 
